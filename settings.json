@@ -1,0 +1,43 @@
+{
+    "editor.mouseWheelZoom": true,
+    "editor.wordWrap": "on",
+    "files.associations": {
+        "*.csv": "csv"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.colorTheme": "Ayu Mirage Bordered",
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+
+
+    "workbench.colorCustomizations": {
+    //    "terminal.background": "#052235",
+    "terminal.foreground": "#79ff0a",
+    "terminal.ansiBlack": "#282a36",
+    "terminal.ansiRed": "#ff5c57",
+    "terminal.ansiGreen": "#fa09e6",
+    "terminal.ansiYellow": "#0cf8f8",
+    "terminal.ansiBlue": "#57c7ff",
+    "terminal.ansiMagenta": "#ff6ac1",
+    "terminal.ansiCyan": "#9aedfe",
+    "terminal.ansiWhite": "#f1f1f0",
+    "terminal.ansiBrightBlack": "#686868",
+    "terminal.ansiBrightRed": "#ff5c57",
+    "terminal.ansiBrightGreen": "#5af78e",
+    "terminal.ansiBrightYellow": "#f3f99d",
+    "terminal.ansiBrightBlue": "#57c7ff",
+    "terminal.ansiBrightMagenta": "#ff6ac1",
+    "terminal.ansiBrightCyan": "#9aedfe",
+    "terminal.ansiBrightWhite": "#eff0eb",
+    // "terminalCursor.foreground": "#00f7ff"
+    "terminalCursor.background": "#0a015f",
+    
+    }
+
+
+}
